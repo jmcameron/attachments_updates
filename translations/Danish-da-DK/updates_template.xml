@@ -4,7 +4,7 @@
    <update>
       <name>Attachments Danish (da-DK) Language Pack</name>
       <description>Attachments Danish (da-DK) Language Pack for Joomla 1.6, 1.7+</description>
-      <element>attachments_ru_ru_language_pack</element>
+      <element>attachments_da_dk_language_pack</element>
       <type>file</type>
       <version>3.0-Draft</version>
       <targetplatform name="joomla" version="1.7" />

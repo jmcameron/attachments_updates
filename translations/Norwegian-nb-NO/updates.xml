@@ -7,7 +7,8 @@
       <element>attachments_nb_no_language_pack</element>
       <type>file</type>
       <version>3.0.1.2</version>
-      <targetplatform name="joomla" version="1.7" />
+      <client>site</client>
+      <targetplatform name="joomla" version="1.7|2.5" />
       <maintainer>Jonathan M. Cameron</maintainer>
       <maintainerurl>http://joomlacode.org/gf/project/attachments</maintainerurl>
       <infourl title="3.0.1.2 Update details">http://jmcameron.net/attachments/updates/translations/Norwegian-nb-NO/attachments-Norwegian-nb-NO-3.0.1.2-details.html</infourl>

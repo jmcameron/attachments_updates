@@ -7,7 +7,8 @@
       <element>attachments_bg_bg_language_pack</element>
       <type>file</type>
       <version>3.0-Draft</version>
-      <targetplatform name="joomla" version="1.7" />
+      <client>site</client>
+      <targetplatform name="joomla" version="1.7|2.5" />
       <maintainer>Jonathan M. Cameron</maintainer>
       <maintainerurl>http://joomlacode.org/gf/project/attachments</maintainerurl>
       <infourl title="3.0-Draft Details">http://jmcameron.net/attachments/updates/translations/Bulgarian-bg-BG/3.0-Draft/index.html</infourl>

@@ -6,8 +6,9 @@
       <description>Attachments French (fr-FR) Language Pack for Joomla 1.6, 1.7+</description>
       <element>attachments_fr_fr_language_pack</element>
       <type>file</type>
-      <version>3.0-Draft2</version>
-      <targetplatform name="joomla" version="1.7" />
+      <version>3.0-Draft2</version> 
+      <client>site</client>
+      <targetplatform name="joomla" version="1.7|2.5" />
       <maintainer>Jonathan M. Cameron</maintainer>
       <maintainerurl>http://joomlacode.org/gf/project/attachments</maintainerurl>
       <infourl title="3.0-Draft2 Details">http://jmcameron.net/attachments/updates/translations/French-fr-FR/3.0-Draft2/index.html</infourl>

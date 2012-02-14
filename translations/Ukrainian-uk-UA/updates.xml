@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
 
-<updates>
-
    <update>
       <name>Attachments Ukrainian (uk-UA) Language Pack</name>
       <description>Attachments Ukrainian (uk-UA) Language Pack for Joomla 1.6, 1.7+</description>
@@ -18,8 +16,5 @@
          <downloadurl type="full" format="zip">http://jmcameron.net/attachments/attachments-Ukrainian-uk-UA-language-pack-3.0.1.zip</downloadurl>
       </downloads>
    </update>
- 
-</updates>
-
 
 </updates>

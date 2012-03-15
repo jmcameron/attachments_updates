@@ -3,7 +3,7 @@
 
    <update>
       <name>Attachments Catalan (ca-ES) Language Pack</name>
-      <description>Attachments Catalan (ca-ES) Language Pack for Joomla 1.6, 1.7+</description>
+      <description>Attachments Catalan (ca-ES) Language Pack for Joomla 1.6, 1.7, 2.5+</description>
       <element>attachments_ca_es_language_pack</element>
       <type>file</type>
       <version>3.0-Draft</version>

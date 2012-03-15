@@ -3,7 +3,7 @@
 
    <update>
       <name>Attachments Norwegian (nb-NO) Language Pack</name>
-      <description>Attachments Norwegian (nb-NO) Language Pack for Joomla 1.6, 1.7+</description>
+      <description>Attachments Norwegian (nb-NO) Language Pack for Joomla 1.6, 1.7, 2.5+</description>
       <element>attachments_nb_no_language_pack</element>
       <type>file</type>
       <version>3.0.1.2</version>

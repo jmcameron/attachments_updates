@@ -8,7 +8,7 @@
       <type>package</type>
       <version>3.1</version>
       <client>site</client>
-      <targetplatform name="joomla" version="2.5.7" />
+      <targetplatform name="joomla" version="2.5" />
       <maintainer>Jonathan M. Cameron</maintainer>
       <maintainerurl>http://joomlacode.org/gf/project/attachments</maintainerurl>
       <infourl title="3.1 Update Details">http://jmcameron.net/attachments/updates/3.1/index.html</infourl>

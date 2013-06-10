@@ -8,7 +8,7 @@
       <type>file</type>
       <version>3.1</version>
       <client>site</client>
-      <targetplatform name="joomla" version="2.5|3.0" />
+      <targetplatform name="joomla" version="2.5|3.0|3.1" />
       <maintainer>Jonathan M. Cameron</maintainer>
       <maintainerurl>http://joomlacode.org/gf/project/attachments</maintainerurl>
       <infourl title="3.1 Update details">http://jmcameron.net/attachments/updates/translations/Catalan-ca-ES/attachments-Catalan-ca-ES-3.1-details.html</infourl>

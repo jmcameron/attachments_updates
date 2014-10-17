@@ -4,11 +4,11 @@
    <update>
       <name>Attachments Dutch (nl-NL) Language Pack</name>
       <description>Attachments Dutch (nl-NL) Language Pack for Joomla 1.6, 1.7, 2.5+</description>
-      <element>attachments_fr_fr_language_pack</element>
+      <element>attachments_nl_nl_language_pack</element>
       <type>file</type>
-      <version>3.0-Draft2</version>
+      <version>3.1</version>
       <client>site</client>
-      <targetplatform name="joomla" version="1.7|2.5" />
+      <targetplatform name="joomla" version="2.5|3.0|3.1|3.2|3.3" />
       <maintainer>Jonathan M. Cameron</maintainer>
       <maintainerurl>http://joomlacode.org/gf/project/attachments</maintainerurl>
       <infourl title="3.0-Draft2 Details">http://jmcameron.net/attachments/updates/translations/Dutch-nl-NL/3.0-Draft2/index.html</infourl>

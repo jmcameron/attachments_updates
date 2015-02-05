@@ -15,6 +15,9 @@
       <downloads>
          <downloadurl type="full" format="zip">http://jmcameron.net/attachments/updates/3.2.0/attachments-3.2.0.zip</downloadurl>
       </downloads>
+      <tags>
+	<tag>stable</tag>
+      </tags>
    </update>
 
 </updates>

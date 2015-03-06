@@ -4,7 +4,7 @@
    <update>
       <name>Attachments for JEvents (save)</name>
       <description></description>
-      <element>attachments_for_jevents_save</element>
+      <element>save_attachments</element>
       <type>plugin</type>
       <client>site</client>
       <folder>jevents</folder>
